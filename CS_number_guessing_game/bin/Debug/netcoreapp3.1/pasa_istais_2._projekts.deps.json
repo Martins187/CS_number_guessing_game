@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pasa_istais_2._projekts/1.0.0": {
+        "runtime": {
+          "pasa_istais_2._projekts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pasa_istais_2._projekts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

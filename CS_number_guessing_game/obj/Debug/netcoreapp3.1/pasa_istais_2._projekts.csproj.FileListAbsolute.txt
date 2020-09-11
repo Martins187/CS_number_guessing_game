@@ -1,0 +1,13 @@
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.csprojAssemblyReference.cache
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.AssemblyInfoInputs.cache
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.AssemblyInfo.cs
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.csproj.CoreCompileInputs.cache
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.exe
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.deps.json
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.runtimeconfig.json
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.runtimeconfig.dev.json
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.dll
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\bin\Debug\netcoreapp3.1\pasa_istais_2._projekts.pdb
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.dll
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.pdb
+C:\Users\37129\source\repos\pasa_istais_2._projekts\pasa_istais_2._projekts\obj\Debug\netcoreapp3.1\pasa_istais_2._projekts.genruntimeconfig.cache
